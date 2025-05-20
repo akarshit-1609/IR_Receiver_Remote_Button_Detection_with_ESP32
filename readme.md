@@ -86,6 +86,12 @@ Once the code is uploaded, open serial monitor and press dd free dish remote but
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/a348673c-91fe-4535-a362-809165002de3
+
+---
+
 ## Troubleshooting
 
 - Make sure the IR receiver is properly connected.
