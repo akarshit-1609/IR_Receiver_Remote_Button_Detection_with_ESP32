@@ -90,6 +90,8 @@ Once the code is uploaded, open serial monitor and press dd free dish remote but
 
 https://github.com/user-attachments/assets/a348673c-91fe-4535-a362-809165002de3
 
+[![Watch on YouTube](https://img.shields.io/badge/-Watch%20on%20YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7texHE5-ypw?si=X6oq3S87xoazAFfd)
+
 ---
 
 ## Troubleshooting
