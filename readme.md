@@ -106,3 +106,9 @@ https://github.com/user-attachments/assets/a348673c-91fe-4535-a362-809165002de3
 
 - [IRremoteESP8266 Library](https://github.com/crankyoldgit/IRremoteESP8266)
 - [ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
